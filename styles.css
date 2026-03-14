@@ -151,12 +151,12 @@ code{
 
 .profile-pic {
   position: absolute;
-  top: 0;
-  right: 0;
-  width: 130px;
-  height: 130px;
+  top: 24px;
+  right: 24px;
+  width: 120px;
+  height: 120px;
   object-fit: cover;
   border-radius: 50%;
-  overflow: hidden;
 }
+
 
