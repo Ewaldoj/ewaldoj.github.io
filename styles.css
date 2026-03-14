@@ -144,3 +144,19 @@ code{
   }
 }
 
+.top {
+  position: relative;
+  padding-right: 170px;
+}
+
+.profile-pic {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 130px;
+  height: 130px;
+  object-fit: cover;
+  border-radius: 50%;
+  overflow: hidden;
+}
+
