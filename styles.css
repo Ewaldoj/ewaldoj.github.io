@@ -152,8 +152,8 @@ code{
 
 .profile-pic {
   position: absolute;
-  top: 40px;
-  right: 40px;
+  top: 50px;
+  right: 100px;
   width: 180px;
   height: 180px;
   object-fit: cover;
